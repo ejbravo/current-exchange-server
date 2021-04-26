@@ -6,7 +6,7 @@
 
 ## Table of contents
 
-> * [Title / Repository Name](#Current Exchange from SNB / current-exchange-server)
+> * [Title / Repository Name](#title)
 >   * [Description](#description)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
