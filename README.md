@@ -9,8 +9,6 @@
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshots](#screenshots)
->     * [Features](#features)
 >   * [Code](#code)
 >     * [Content](#content)
 >     * [Requirements](#requirements)
@@ -28,13 +26,13 @@ or yarn
 
 ## Usage
 
-Very simple app
-
-### Screenshots
-
-### Features
+- Application downloads exchange rates fils by demand (pressing "reload" button)
+- Application parses downloaded file and presents results in a table (columns in table are date, EUR, USD, JPY and GBP)
+- User can select specific date to show results for EUR, USD, JPY, GPB.
 
 ## Code
+
+This repository
 
 ### Content
 
