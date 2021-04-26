@@ -5,8 +5,6 @@
 * Project status: prototype
 
 ## Table of contents
-
-> * [Title / Repository Name](#title)
 >   * [Description](#description)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
