@@ -12,14 +12,14 @@
 >   * [Code](#code)
 >     * [Requirements](#requirements)
 >     * [Build](#build)
->   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
+>   * [Resources](#resources)
 >   * [License](#license)
 
 ## Installation
 
-Use npm
+Use
 ```npm install```
-or yarn
+or
 ```yarn install```
 
 ## Usage
@@ -44,12 +44,11 @@ All dependencies will be installed using the package.json file
 
 ### Build
 
-Using npm
 ```npm run build```
-or yarn
+or
 ```yarn build```
 
-## Resources (Documentation and other links)
+## Resources
 
 Main external libraries:
 - [xlsx](https://www.npmjs.com/package/xlsx)
