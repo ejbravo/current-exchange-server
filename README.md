@@ -12,6 +12,7 @@
 >   * [Code](#code)
 >     * [Requirements](#requirements)
 >     * [Build](#build)
+>     * [Test](#test)
 >   * [Resources](#resources)
 >   * [License](#license)
 
@@ -29,7 +30,7 @@ After installing use
 or
 ```yarn start```
 
-- Application downloads exchange rates fils by demand (pressing "reload" button)
+- Application downloads exchange rates file by demand (pressing "reload" button)
 - Application parses downloaded file and presents results in a table (columns in table are date, EUR, USD, JPY and GBP)
 - User can select specific date to show results for EUR, USD, JPY, GPB.
 
@@ -47,6 +48,13 @@ All dependencies will be installed using the package.json file
 ```npm run build```
 or
 ```yarn build```
+
+### Test
+
+There are two different test for defined routes (/healthcheck and /api/current-exchange)
+```npm run test```
+or
+```yarn test```
 
 ## Resources
 
